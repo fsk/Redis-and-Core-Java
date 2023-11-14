@@ -10,10 +10,7 @@ import redis.clients.jedis.search.schemafields.TagField;
 import redis.clients.jedis.search.schemafields.TextField;
 
 
-/**
- * Connect to Redis Cluster with JedisCluster
- */
-public class Main10 {
+public class Main8 {
 
     public static void main(String[] args) {
 
